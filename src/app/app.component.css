@@ -1,0 +1,17 @@
+button {
+  margin: 0 10px;
+}
+
+.button-container {
+  margin: 20px 0;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+}
+
+.footer > .github-logo {
+  height: 50px;
+}
+
